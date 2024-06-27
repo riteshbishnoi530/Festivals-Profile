@@ -49,6 +49,11 @@
 .mb-156{
     margin-bottom: 156px;
 }
+.svg{
+    top: 40%;
+    right: 40%;
+    transform: translate(50% 50%);
+}
 .line-1{
     width: 115px;
 height: 8px;
