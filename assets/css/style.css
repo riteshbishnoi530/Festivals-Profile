@@ -137,10 +137,12 @@
 .mb-47 {
     margin-bottom: 47px;
 }
-.w-84{
+
+.w-84 {
     width: 84%;
 }
-.add{
+
+.add {
     outline: none;
     border: 0;
 }
@@ -177,7 +179,8 @@
     color: white;
     text-decoration: none;
 }
-.cursor{
+
+.cursor {
     cursor: pointer;
 }
 
@@ -188,10 +191,12 @@
 .box {
     margin-bottom: 24px;
 }
-.p-13-28{
-    padding: 13px 28px !important ;
+
+.p-13-28 {
+    padding: 13px 28px !important;
 }
-.radius-36{
+
+.radius-36 {
     border-radius: 36px !important;
 }
 
@@ -213,6 +218,7 @@
     font-size: 36px;
     font-weight: 700;
 }
+
 .poppins-700-12 {
     font-family: "Poppins", sans-serif;
     font-size: 12px;
@@ -291,9 +297,10 @@
         font-size: 20px;
 
     }
-    
+
 }
-@media (max-width: 767px){
+
+@media (max-width: 767px) {
     .poppins-700-12 {
         font-family: "Poppins", sans-serif;
         font-size: 16px;
