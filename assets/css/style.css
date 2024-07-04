@@ -137,11 +137,14 @@
 .mb-47 {
     margin-bottom: 47px;
 }
-
-.add {
-    border: 0;
-    outline: none;
+.w-84{
+    width: 84%;
 }
+.add{
+    outline: none;
+    border: 0;
+}
+
 
 .gap-5px {
     gap: 5px;
@@ -184,6 +187,12 @@
 
 .box {
     margin-bottom: 24px;
+}
+.p-13-28{
+    padding: 13px 28px !important ;
+}
+.radius-36{
+    border-radius: 36px !important;
 }
 
 /*----------------------------------fonts-------------------*/
